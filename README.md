@@ -1,3 +1,3 @@
 ## Landing Page for Geometry with an Introduction to Cosmic Topology
 
-![](images/cover18.png){height=150}
+<img src="images/cover18.png" alt="drawing" width="150"/>
